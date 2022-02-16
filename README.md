@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Carduran11
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning Python 3
+- 💞️ I’m looking to collaborate on all the projects I can
+- 📫 How to reach me via e-mail (¿maybe?): carlosesp29@hotmail.es
